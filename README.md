@@ -7,9 +7,9 @@ a Php Templating Engine. The project try the form usage standalone.
 3. Add the project to your web server configuration 
   Please refer to the 
 <a href="http://deredb.com/symfony-standalone-form-using-php-templating-engine-part-1/" 
-   target="_blank">tutorial</a> I created related to this project
-----sf_standalone_form >>place all the files under this folder or project directory
------------vendor >> create this folder inside sf_standalone_form
+   target="_blank">tutorial</a> I created related to this project</br>
+----sf_standalone_form >>place all the files under this folder or project directory</br>
+-----------vendor >> create this folder inside sf_standalone_form</br>
         
 4. Run the "composer update" command from your main project directory
 5. Make sure vendor folder with all packages are downloaded following the 4th step
